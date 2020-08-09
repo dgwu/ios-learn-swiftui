@@ -6,7 +6,7 @@ Start the exploration using tutorial provided by Apple.
 ## Topics
 1. SwiftUI Essentials
     * Creating and Combining Views [DONE]
-    * Building Lists and Navigation
+    * Building Lists and Navigation [DONE]
     * Handling User Input
 
 ## Credits
